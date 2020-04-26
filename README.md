@@ -1,7 +1,10 @@
+# what is this ?
+get profect random names with number 
+
 # Creating a Node.js CLI
+> [https://www.easycodeing.com/](https://www.easycodeing.com/)
 
-> [https://www.youtube.com/watch?v=C9xGEJ80jjs](https://www.youtube.com/watch?v=C9xGEJ80jjs)
+# Installation
+`npm i besoo-cli --save`
 
-Install [io.js](https://iojs.org/en/index.html).
-
-Run `./cli.js` to run the example.
+Run 'besoo' to get random names  

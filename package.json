@@ -1,0 +1,22 @@
+{
+  "name": "besoo-cli",
+  "version": "1.0.0",
+  "description": "Random number",
+  "main": "cli.js",
+  "bin": {
+    "besoo": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B7-9414/npm.git"
+  },
+  "author": "Banawi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B7-9414/npm/issues"
+  },
+  "homepage": "https://github.com/B7-9414/npm#readme"
+}
